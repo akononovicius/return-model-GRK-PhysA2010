@@ -8,9 +8,7 @@ doi: [10.1016/j.physa.2009.09.011](https://dx.doi.org/10.1016/j.physa.2009.09.01
 
 The model was implemented in 2009-2010 by Aleksejus Kononovicius,
 other implementations were also used to produce results in the
-aforemetioned paper. This code is available under
-[GNU GPL version 3](http://www.gnu.org/licenses/)
-or (at your option) later.
+aforemetioned paper.
 
 Another implementation of the model (as well as model description)
 is available at
